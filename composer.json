@@ -1,0 +1,6 @@
+{
+    "name": "ragul/testing",
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
